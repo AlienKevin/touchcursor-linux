@@ -9,8 +9,7 @@ l - right
 u - home
 o - end
 p - backspace
-h - page up
-n - page down
+h - enter
 m - del
 y - insert
 ```
